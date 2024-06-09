@@ -1,0 +1,44 @@
+
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+.buildlog/
+pubspec.lock
+/ios/Pods
+/ios/.symlinks
+/ios/Flutter/Flutter.framework
+/ios/Flutter/Flutter.podspec
+
+# Project specific
+*.iml
+.idea
+.vscode
+build/
+*.log
+*.tmp
+*.swp
+*.swo
+
+# macOS specific
+.DS_Store
+
+# Windows specific
+Thumbs.db
+
+# Android/Gradle related
+/android/.gradle/
+/android/app/build/
+/android/build/
+/android/gradle/
+/android/gradlew
+/android/gradlew.bat
+/android/local.properties
+/android/.idea/
+/android/*.iml
+
+# Exclude Gradle distribution zips
+/android/gradle/wrapper/dists/
+
+

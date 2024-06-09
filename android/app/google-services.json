@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "2875216020",
+    "project_id": "meterpro-c33c7",
+    "storage_bucket": "meterpro-c33c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2875216020:android:f0fea1e74d100a918c6481",
+        "android_client_info": {
+          "package_name": "com.mbd.meterpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2875216020-4dd2q27uttopghj764nlejqpg35m0t7h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mbd.meterpro",
+            "certificate_hash": "5daa54df9f67eb695a93b6caec7ebbfed4052812"
+          }
+        },
+        {
+          "client_id": "2875216020-8q4vsi4r9t46tc58m2os98i55ceklkpj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mbd.meterpro",
+            "certificate_hash": "ce31a4b0b3dc3a7b1ec74f34c906e346dacd3054"
+          }
+        },
+        {
+          "client_id": "2875216020-kmmh2m4se3guvjkll5uckne6iotrmtb9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mbd.meterpro",
+            "certificate_hash": "601ce62d8f8c404ef9281892e63bb5dcc6cb0ca3"
+          }
+        },
+        {
+          "client_id": "2875216020-0b0p8la23lp7o4koifuscrdea6brbfm4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMRDJ7I_FNvYXHvYL4q1xaPI8EbzREglo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2875216020-0b0p8la23lp7o4koifuscrdea6brbfm4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
